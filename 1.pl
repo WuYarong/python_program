@@ -6,6 +6,7 @@ $line=<FILE>;
 while($line ne "")  
 {
 $line=<FILE>;
+#noted 
 chomp($line);
 @array=split(/\t/,$line);
 if($array[0]==10090)
