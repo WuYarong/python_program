@@ -1,0 +1,5 @@
+*.txt
+*.gene_info
+*.gene_info.gz
+gene_info
+gene2accession
