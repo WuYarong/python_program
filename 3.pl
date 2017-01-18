@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 open (FILE, "Mus_musculus.gene_info");
 open (LIST,"protein_geneid.txt");
 open (OUT, ">id_symbol3.txt");
