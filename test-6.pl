@@ -22,3 +22,5 @@ $array{$id[0]}=$line;
      }
 $line=<FILE>;
 }
+print "aaa"
+print "bbb"
